@@ -2,30 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://raw.githubusercontent.com/HorizonXP/voicestream-trip-builds/main/VoiceStreamPad-20260620.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.ritesh.voice-stream.pad</string>
-				<key>bundle-version</key>
-				<string>1</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>Voice Stream</string>
-			</dict>
-		</dict>
-	</array>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://raw.githubusercontent.com/HorizonXP/voicestream-trip-builds/main/VoiceStreamPad-20260623-retry.ipa</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.ritesh.voice-stream.pad</string>
+        <key>bundle-version</key>
+        <string>1</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Voice Stream</string>
+      </dict>
+    </dict>
+  </array>
 </dict>
 </plist>
